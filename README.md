@@ -1,9 +1,8 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. 
+Bu repo [Kodluyoruz](https://app.patika.dev/referral/zeynep-dmrl) Front-End Eğitiminde oluşturduğumuz ilk repo. 
 
-![github](figures/github.png)
 
 ## Installation
 
@@ -47,17 +46,27 @@ Commit, staged ortamına alınan dosyaların Local Repository’e gönderilmesid
 ```bash
 git commit -m "readme oluşturuldu"
 ```
-Projeyi repoya gönderme işlemi:
+
+Main branch oluşturalım.
+
+```bash
+git branch main
+```
+
+Son aşamaya gelmeden önce ise remote bağlantımızı ekleyelim.
+
+
+```bash
+ git remote add origin 'repo-link'
+```
+
+
+Repomuza dosyalarımızı gönderelim.
 
 ```bash
 git push -u origin main
 ```
 
-
-
-
-## Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 
 ## License
