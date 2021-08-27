@@ -8,12 +8,13 @@ body{
     background-color: #E9ECEF;
 }
 header{
-    background-color:darkred;
+    background-color:#660022;
     padding: 10px;
 }
 header>h1{
     color:white;
     font-size: 40px;
+    font-style: italic;
 }
 header>p{
     color: black;
