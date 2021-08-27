@@ -18,7 +18,7 @@ const instruments = [
     },
     {
         id: 3,
-        title: "Yan FLüt",
+        title: "Yan Flüt",
         category: "Nefesli",
         price: 2.548,
         img: "img/yan-flüt.jpg",
@@ -162,7 +162,7 @@ function displayMenuButtons() {
 function displayMenuItems(menuItems) {
     let displayMenu = menuItems.map(function (item) {
         return `<div class="col-md-4">
-                    <div class="card">
+                    <div class="card" style="border: 1px solid black;">
                         <img src= ${item.img} class="card-img-top" alt= ${item.title}>
                         <div class="card-body">
                             <h5 class="card-title">${item.title}</h5>
