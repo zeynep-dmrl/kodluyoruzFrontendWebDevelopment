@@ -167,7 +167,7 @@ function displayMenuItems(menuItems) {
                         <div class="card-body">
                             <h5 class="card-title">${item.title}</h5>
                             <p class="card-text">${item.desc}</p>
-                            <span class="text-light bg-secondary">${item.price} <i class="fas fa-lira-sign"></i></span>
+                            <span class="badge bg-secondary p-2">${item.price} <i class="fas fa-lira-sign"></i></span>
                         </div>
                     </div>
                 </div>`;
