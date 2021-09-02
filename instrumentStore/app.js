@@ -161,7 +161,7 @@ function displayMenuButtons() {
  //instrument item
 function displayMenuItems(menuItems) {
     let displayMenu = menuItems.map(function (item) {
-        return `<div class="col-6 col-md-4">
+        return `<div class="col-6 col-md-4 mb-3">
                     <div class="card" style="border: 1px solid black;">
                         <img src= ${item.img} class="card-img-top" alt= ${item.title}>
                         <div class="card-body">
