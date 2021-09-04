@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background-color:ghostwhite;
+}
+#navbarSupportedContent>form>input::placeholder{
+    background-image: url("search-solid.svg");
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 14px;
+    color: gray;
+    background-position: 40%;
+    background-size: 6%;
+}
+.input-group>input::placeholder{
+    text-align: start;
+    font-family: Neue Helvetica;
+}
+.input-group>a{
+    font-family: Neue Helvetica;
+}
