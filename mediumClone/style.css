@@ -1,0 +1,59 @@
+
+.bg-blue{
+    background-color: #C4E2FF;
+}
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41,41,41,1);
+}
+.font-h1{
+    color:rgba(8,8,8,1);
+    font-family: 'PT Serif', serif;
+    /* font-family: 'Source Sans Pro', sans-serif; */
+    font-weight:500;
+}
+.font-weight-400{
+    font-weight: 400;
+}
+.card-info{
+    color: rgba(41, 41, 41, 1);
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    margin: 0;
+}
+.card-dsc{
+    color: rgba(117, 117, 117, 1);
+    font-size: 16px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.border-style{
+   border: 1px solid rgba(230, 230, 230, 1);
+   border-radius:3px;
+}
+.text-font{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu-font{
+    color: rgba(117, 117, 117, 1);
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+.hstack>div>a:hover{
+    color: rgba(117, 117, 117, 1);
+}
+
+
+/* <small><strong>DISCOVER MORE OF WHAT
+                                    MATTERS TO YOU</strong></small>*/
+
+
+
+/*
+   
+Heading (Source Sans Pro, Semibold, 38px)
+Sub-heading (Source Sans Pro, Semibold, 23px)
+Content paragraph (Source Serif Pro, Regular, 20px)
+
+*/
