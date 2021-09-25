@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://giftsear.ch/images/graphics/header-home.svg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.header-font{
+    font-family: 'Italianno', cursive;
+}
+
+button.btn{
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'Varela Round',sans-serif;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    color: white;
+    background-color: transparent;
+}
+
+button.btn:hover{
+    color: #ed522e;
+}
+button.active{
+    background-color: #ed522e;
+}
+
+p.card-text{
+    font-size: 12px;
+}
