@@ -1,11 +1,11 @@
 # React Odev-1
 
-Fonksiyon user id olarak verilen parametre ile  ilgili kullanıcının verilerini çeker.Artık elimizde kullanıcı bilgileri ve bu kullanıcının post'ları vardır.
-
-
 **async-await** 
 **axios**
 **export(default)**
+
+Fonksiyon user id olarak verilen parametre ile  ilgili kullanıcının verilerini çeker. Projeyi çalıştırmak için ```npm start``` yazdığımızda
+artık elimizde kullanıcı bilgileri ve bu kullanıcının post'ları vardır.
 
 
 ```
