@@ -1,8 +1,6 @@
 body {
   margin: 0;
-  background-image: url('./backImage.jpg');
-  background-size: contain;
-  background-repeat: repeat;
+  background-color: rgb(231, 237, 222);
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
