@@ -9,7 +9,7 @@ Bu repo [Kodluyoruz](https://app.patika.dev/referral/zeynep-dmrl) Front-End Eği
 - [Draggable Todo App](https://github.com/zeynep-dmrl/someBasicProjects/tree/main/draganddrop)
 ![first view](https://github.com/zeynep-dmrl/someBasicProjects/blob/main/draganddrop/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC_20221125_235305.png)
 
-- [Contact App](hhttps://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/tree/main/contact-app)
+- [Contact App](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/tree/main/contact-app)
 ![contact-app](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/blob/main/contact-app/contact-app-img.PNG)
 
 - [Hediye Sepeti](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/tree/main/hediyeSepeti)
