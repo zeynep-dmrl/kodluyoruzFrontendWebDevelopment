@@ -16,6 +16,7 @@ Bu repo [Kodluyoruz](https://app.patika.dev/referral/zeynep-dmrl) Front-End Eği
 ![hediye sepeti](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/blob/main/hediyeSepeti/website-gif.gif)
 
 - [Instrument Store](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/tree/main/instrumentStore)
+
 ![instrument store](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/blob/main/instrumentStore/giOfSite.gif)
 
 - [Medium UI Clone](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/tree/main/mediumClone)
