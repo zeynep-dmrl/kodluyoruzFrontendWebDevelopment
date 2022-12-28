@@ -15,11 +15,11 @@ Bu repo [Kodluyoruz](https://app.patika.dev/referral/zeynep-dmrl) Front-End Eği
 - [Hediye Sepeti](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/tree/main/hediyeSepeti)
 ![hediye sepeti](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/blob/main/hediyeSepeti/website-gif.gif)
 
-- [Entrument Store](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/tree/main/instrumentStore)
-![gif](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/blob/main/instrumentStore/giOfSite.gif)
+- [Instrument Store](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/tree/main/instrumentStore)
+![instrument store](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/blob/main/instrumentStore/giOfSite.gif)
 
 - [Medium UI Clone](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/tree/main/mediumClone)
-![gif](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/blob/main/mediumClone/mediumCloneGif.gif)
+![medium](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/blob/main/mediumClone/mediumCloneGif.gif)
 
 - [LinkedIn UI Clone](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/tree/main/linkedInClone)
 
