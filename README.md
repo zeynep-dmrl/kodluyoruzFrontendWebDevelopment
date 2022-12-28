@@ -3,6 +3,31 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Bu repo [Kodluyoruz](https://app.patika.dev/referral/zeynep-dmrl) Front-End Eğitiminde oluşturduğumuz ilk repo. 
 
+## Projects
+
+- [Contact App](hhttps://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/tree/main/contact-app)
+![contact-app](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/blob/main/contact-app/contact-app-img.PNG)
+
+- [Hediye Sepeti](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/tree/main/hediyeSepeti)
+![hediye sepeti](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/blob/main/hediyeSepeti/website-gif.gif)
+
+- [Entrument Store](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/tree/main/instrumentStore)
+![gif](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/blob/main/instrumentStore/giOfSite.gif)
+
+- [Medium UI Clone](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/tree/main/mediumClone)
+![gif](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/blob/main/mediumClone/mediumCloneGif.gif)
+
+- [LinkedIn UI Clone](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/tree/main/linkedInClone)
+
+- [Instagram UI Clone](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/tree/main/instagramClone)
+![instagram](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/blob/main/instagramClone/img/img-1.PNG)
+
+- [Google UI Clone](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/tree/main/googleClone)
+![google](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/blob/main/googleClone/screenshot-1.PNG)
+
+- [Fetch Users And Posts](https://github.com/zeynep-dmrl/kodluyoruzFrontendWebDevelopment/tree/main/fetchUsersAndPosts)
+
+
 
 ## Installation
 
